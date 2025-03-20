@@ -1,6 +1,6 @@
-# API_Rest_PHP
+# API Rest PHP
 
-Api rest para interejir com banco de dados em PHP:
+Api rest para interegir com banco de dados em PHP:
 
 ------------------------------
 # Teste
